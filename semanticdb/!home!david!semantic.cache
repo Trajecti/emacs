@@ -1,0 +1,19 @@
+;; Object david/
+;; SEMANTICDB Tags save file
+(semanticdb-project-database-file "david/"
+  :tables (list 
+   (semanticdb-table "buts.py"
+    :major-mode 'python-mode
+    :tags 
+        '( ("for" code nil nil [1 42]))          
+    :file "buts.py"
+    :pointmax 42
+    :fsize 41
+    :lastmodtime '(21543 25488 139447 179000)
+    :unmatched-syntax 'nil
+    )
+   )
+  :file "!home!david!semantic.cache"
+  :semantic-tag-version "2.0"
+  :semanticdb-version "2.2"
+  )
